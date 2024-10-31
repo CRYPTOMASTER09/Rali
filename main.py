@@ -36,7 +36,7 @@ def key_bot():
 def header():
     print("")
     print("╔════════════════════════════════════════════╗")
-    print("║               Captain Tsubasa              ║") 
+    print("║               Crypto Master              ║") 
     print("╚════════════════════════════════════════════╝")
     print("")
 
